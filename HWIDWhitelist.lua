@@ -1,4 +1,4 @@
-local allowedhwids = loadstring(game:HttpGet("https://raw.githubusercontent.com/w3irddy/configs/main/HWIDWhitelist.lua", true))()
+local allowedhwids = loadstring(game:HttpGet("https://raw.githubusercontent.com/tinnlol/configs/main/HWIDWhitelist.lua", true))()
 local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 
 
